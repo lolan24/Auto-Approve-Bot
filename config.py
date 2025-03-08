@@ -2,7 +2,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "13305226"))
 API_HASH = environ.get("API_HASH", "8cde2475d6b0cb1162b89ebbac71a95d")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7983985478:AAEhK_R0pIgsQZJ8dlCnROc6h7VsE1_CLGY")
+BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1001953506128"))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002427686991"))
