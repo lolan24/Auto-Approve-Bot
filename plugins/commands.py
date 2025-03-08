@@ -69,8 +69,8 @@ async def start_message(c, m):
             [[
                 InlineKeyboardButton("⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆", url=f"https://t.me/join_request_pending_accept_bot?startgroup=true&admin=invite_users"),
             ],[
-                InlineKeyboardButton("• ᴜᴩᴅᴀᴛᴇꜱ •", url="https://t.me/WMchannelS"),
-                InlineKeyboardButton("• ꜱᴜᴩᴩᴏʀᴛ •", url="https://t.me/groupWM")
+                InlineKeyboardButton("• ᴍᴏᴠɪᴇ. ᴄʜᴀɴɴᴇʟ •", url="https://t.me/WMchannelS"),
+                InlineKeyboardButton("• ᴍᴏᴠɪᴇ ɢʀᴜᴏᴩ •", url="https://t.me/groupWM")
             ],[
                 InlineKeyboardButton("⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ⇆", url=f"https://t.me/join_request_pending_accept_bot?startchannel=true&admin=invite_users")
             ]]
