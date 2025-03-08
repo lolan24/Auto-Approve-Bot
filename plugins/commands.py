@@ -179,7 +179,7 @@ async def approve_new(client, m):
         try:
             await client.send_message(m.from_user.id,"{},\n\n𝖸𝗈𝗎𝗋 𝖱𝖾𝗊𝗎𝖾𝗌𝗍 𝖳𝗈 𝖩𝗈𝗂𝗇 {} 𝖺𝗌 𝖻𝖾𝖾𝗇 𝖠𝖼𝖼𝖾𝗉𝗍𝖾𝖽.".format(m.from_user.first_name, m.chat.title),
     reply_markup=InlineKeyboardMarkup([
-        [InlineKeyboardButton("𝘕𝘌𝘞 𝘔𝘖𝘝𝘐𝘌 𝘜𝘗𝘋𝘈𝘛𝘌 𝘊𝘏𝘈𝘕𝘕𝘌𝘓", url="https://t.me/WMCHANNELS")]
+        [InlineKeyboardButton("🎥𝘕𝘌𝘞 𝘔𝘖𝘝𝘐𝘌 𝘜𝘗𝘋𝘈𝘛𝘌 𝘊𝘏𝘈𝘕𝘕𝘌𝘓 🍿", url="https://t.me/WMCHANNELS")]
     ])
             )
         except:
